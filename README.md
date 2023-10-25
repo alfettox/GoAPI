@@ -58,9 +58,9 @@ POST /account
 
 {
     "AccountNumber": "C0004",
-    "Balance": "5000.0",
+    "Balance": "50000.0",
     "AccountDescription": "Savings Account",
-    "Name": "John Doe"
+    "Name": "Giovanni De Franceschi"
 }
 ```
 Update a bank account:
@@ -71,7 +71,7 @@ PUT /account/C0004
     "AccountNumber": "C0004",
     "Balance": "5500.0",
     "AccountDescription": "Updated Savings Account",
-    "Name": "John Doe"
+    "Name": "Marie Elle"
 }
 ```
 
